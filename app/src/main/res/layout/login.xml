@@ -13,8 +13,7 @@
         android:textAlignment="center"
         android:textSize="30dip"
         android:textStyle="bold"
-        android:textColor="blue"
-        />
+       />
 
     <TextView
         android:layout_width="fill_parent"
